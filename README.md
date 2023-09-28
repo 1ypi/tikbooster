@@ -1,2 +1,2 @@
 # tikbooster
-TikBooster is a tiktok booster simulator. Made to troll your friends.
+# TikBooster is a tiktok booster simulator. Made to troll your friends.
